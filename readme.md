@@ -5,6 +5,7 @@ Refer to the email
  # 2. Sample Output
  
  Email Message ID, Email Name, Recipients, Opens, Clicks, Unsubscribes, Bounces, Top Variant
+ 
 2324646,"Tell Congress: Protect Gray Wolves", 2552, 343, 98, 5, 4, "Majestic Predators Need YOU"
 2324747 "Get Your Gray Wolf Tote Bag: Donate Now!", 3541, 688, 147, 10, 8, "Furry Friends in Need"
 2325647 "Join Us for a Howling Good Time!", 1599, 106, 27, 6, 4, "Don't Miss Our Grey Wolf Social"
