@@ -13,8 +13,11 @@ Total: 3 emails
 
 # 2. Dependencies and packages
 The project  has the folowing dependencies and packages:
+
 • python v=3.7.13
+
 • requests v=2.23.0
+
 • pandas v=1.3.5
 
 # 2.1 Installation
