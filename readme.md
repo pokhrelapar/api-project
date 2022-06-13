@@ -34,7 +34,8 @@ The project  has the folowing dependencies and packages:
 1. Clone the repository using git clone https://github.com/pokhrelapar/api-project.git or downloading as a zip file.
 2.  Go to the directory where the repo is saved. Extract the files. 
 3.  Open the api-project.py file in a code editor. Only change the value of the  API_KEY = 'xxx-xxxx-xxx' to your own API key. The default username is apiuser. If different, change the value of the field self.username = 'xxxxxx' to your own username. The username and password is  then combined with a username:password to form a base64-encoded string. Save the file.
-3. Open the folder containing the api-project.py file in terminal. Run the follwing command:
+4.  There is a csv file called TestReport. It was generated using the program. You can either keep it to cross check the file generated when running the program on your end or delete it.
+5. Open the folder containing the api-project.py file in terminal. Run the follwing command:
                     python api-project.py
 4.  The program saves the ouput as a csv file. Look for a file called EmailReport.csv as the output.
 5.  Alternatively, you can acess the  Google Colab notebook for the project through https://colab.research.google.com/drive/1myXF1SmaZA-1kXVfRn7RJceyTONv72nh?usp=sharing and run the first cell. This is only meant for testing purposes. Also, you can create a vritual envrionment using Anaconda and then install the necesary dependencies and then run the program.
