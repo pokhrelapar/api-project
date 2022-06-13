@@ -1,8 +1,6 @@
 # 1. Problem Statement
 
-You’ve been asked to produce a repeatable report of emails sent through the system, in order to track their performance. The report should be formatted as a delimited file returned by your program. It should include all emails sent, in reverse order of sending based on EmailMessageId.
-
- For each email, you should display the EmailMessageID and name of the email, plus all available top-line stats (Recipients, Opens, Clicks, Unsubscribes, Bounces). Finally, you should include the name of the variant associated with that email that has the highest percentage-based performance on Opens.
+Refer to the email
  
  # 2. Sample Output
  
